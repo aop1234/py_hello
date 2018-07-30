@@ -69,4 +69,4 @@ print(timeit("f('abcdefghijklmnopqrstuvwxyzABzyxwvutsrqponmlkjihgfedcba')",'from
 print(timeit("isp('abcdefghijklmnopqrstuvwxyzABzyxwvutsrqponmlkjihgfedcba')",'from __main__ import isp',number=10000))
 print(timeit("is_palindrome('abcdefghijklmnopqrstuvwxyzABzyxwvutsrqponmlkjihgfedcba')",'from __main__ import is_palindrome',number=10000))
 
-#add something 
+#add something like JNI
