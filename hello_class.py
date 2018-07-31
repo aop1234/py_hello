@@ -140,10 +140,5 @@ Student.set_gender = set_gender
 s.set_gender('male') 
 print('%s is %s' % (s.name, s.gender))   
 
-
-
 i=1
-
-# I'm tired.
-
 
